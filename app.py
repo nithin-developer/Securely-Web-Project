@@ -34,7 +34,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # Virus Totla Cofig
 vt = vtPubAPI(
-    "31154865e8ef395133e015fc5c1da932aa7e4bcb83a43db3821a1e44a8ff0925")
+    "YOUR_VIRUS_TOTAL_API_KEY")
 
 # MySQL Configuration
 app.config['MYSQL_HOST'] = 'localhost'
@@ -46,8 +46,8 @@ app.config['MYSQL_DB'] = 'securely_web'
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'sonabai2009@gmail.com'
-app.config['MAIL_PASSWORD'] = 'pmtpzjnmszyuboxy'
+app.config['MAIL_USERNAME'] = 'YOUR_EMAIL'
+app.config['MAIL_PASSWORD'] = 'YOUR_TEMP_PASSWORD'
 
 mysql = MySQL(app)
 mail = Mail(app)
