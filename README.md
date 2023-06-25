@@ -42,7 +42,7 @@ To set up the Securely Web Project locally, follow these steps:
 
 ```bash
 
-git clone https://github.com/YourUsername/securely-web-project.git
+git clone https://github.com/nithin-developer/securely-web-project.git
 
 ```
 
