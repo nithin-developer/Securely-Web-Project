@@ -1,6 +1,6 @@
 # Securely Web Project
 
-Welcome to the Securely Web Project repository! This project aims to create a secure and user-friendly online platform for our clients, developed by BSQ Technologies. The Securely Web Project is built using the Flask framework, providing a robust foundation for web development.
+Welcome to the Securely Web Project repository! This project is developed by me as an intern, aiming to create a secure and user-friendly online platform. The Securely Web Project is built using the Flask framework, providing a robust foundation for web development.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Welcome to the Securely Web Project repository! This project aims to create a se
 
 ## Introduction
 
-The Securely Web Project is a Flask-based initiative that aims to revolutionize the way our clients interact with their online accounts and sensitive information. With an emphasis on security and user experience, this project provides a secure gateway for authorized users to access their accounts. The project is developed using Flask, a powerful and flexible web framework for Python.
+The Securely Web Project is a Flask-based initiative that aims to revolutionize the way users interact with their online accounts and sensitive information. With an emphasis on security and user experience, this project provides a secure gateway for authorized users to access their accounts. The project is developed using Flask, a powerful and flexible web framework for Python.
 
 ## Features
 
@@ -28,7 +28,7 @@ The Securely Web Project is a Flask-based initiative that aims to revolutionize 
 
 - **User-Friendly Interface**: The user interface is designed to be intuitive, responsive, and visually appealing, ensuring a seamless user experience.
 
-- **Data Encryption**: Client data is encrypted using industry-standard encryption protocols, ensuring the confidentiality of sensitive information.
+- **Data Encryption**: User data is encrypted using industry-standard encryption protocols, ensuring the confidentiality of sensitive information.
 
 - **Account Management**: The platform allows users to manage their accounts, update personal information, and modify security settings.
 
@@ -42,7 +42,7 @@ To set up the Securely Web Project locally, follow these steps:
 
 ```bash
 
-git clone https://github.com/BSQTechnologies/securely-web-project.git
+git clone https://github.com/YourUsername/securely-web-project.git
 
 ```
 
@@ -86,7 +86,7 @@ The Securely Web Project prioritizes security to ensure the protection of user a
 
 ## Contributing
 
-We welcome contributions to the Securely Web Project from the open-source community. If you have any suggestions, bug reports, or feature requests, please submit them as issues in this repository. Additionally, you can fork the repository, make your desired changes, and submit a pull request for review.
+I welcome contributions to the Securely Web Project from the open-source community. If you have any suggestions, bug reports, or feature requests, please submit them as issues in this repository. Additionally, you can fork the repository, make your desired changes, and submit a pull request for review.
 
 ## License
 
